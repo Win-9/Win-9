@@ -23,13 +23,6 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={krrr8})](https://solved.ac/{krrr8})
-</div>
-
-
-<div align="center">
-
-![Win9's GitHub stats](https://github-readme-stats.vercel.app/api?username=Win-9&show_icons=true&theme=tokyonight)  
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=krrr8)](https://solved.ac/krrr8)
 </div>
 
