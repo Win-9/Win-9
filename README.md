@@ -19,3 +19,8 @@ Here are some ideas to get you started:
   
 ![header](https://capsule-render.vercel.app/api?type=soft&color=random&height=150&section=header&text=It's%Win9&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
 </div>
+
+
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={Win-9})](https://solved.ac/{Win-9})
