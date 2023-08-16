@@ -25,9 +25,3 @@ Here are some ideas to get you started:
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=krrr8)](https://solved.ac/krrr8)
 </div>
-
-
-<div align="center">
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Win-9&layout=compact&theme=radical)
-</div>
